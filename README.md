@@ -54,4 +54,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foksiu8158&show_icons=true&locale=en" alt="avefoxiu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foksiu8158&" alt="foksiu8158" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=foksiu8158&" alt="avefoxiu" /></p>
