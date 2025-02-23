@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://avefoxiu.dev](https://avefoxiu.dev)
 
-- ⚡ Fun fact **I am genuinely a happy man.**
+- ⚡ Fun fact: there is no fun fact.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
